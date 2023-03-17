@@ -5,3 +5,4 @@
 * [Chapter 17: Through the Holy Spirit](chapter-17.md)
 * [Chapter 18: In Stillness of Soul](chapter-18-in-stillness-of-soul.md)
 * [Chapter 19: In Affliction and Trial](chapter-19-in-affliction-and-trial.md)
+* [Chapter 20: That You May Bear Much Fruit](chapter-20-that-you-may-bear-much-fruit.md)
