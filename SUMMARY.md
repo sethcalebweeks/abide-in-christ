@@ -6,4 +6,4 @@
 * [Chapter 18: In Stillness of Soul](chapter-18-in-stillness-of-soul.md)
 * [Chapter 19: In Affliction and Trial](chapter-19-in-affliction-and-trial.md)
 * [Chapter 20: That You May Bear Much Fruit](chapter-20-that-you-may-bear-much-fruit.md)
-* [Chapter 21:](chapter-21.md)
+* [Chapter 21: So You Will Have Power in Prayer](chapter-21-so-you-will-have-power-in-prayer.md)

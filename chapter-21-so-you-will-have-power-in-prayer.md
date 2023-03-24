@@ -1,4 +1,4 @@
-# Chapter 21:
+# Chapter 21: So You Will Have Power in Prayer
 
 _"If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you. "-- JOHN 15:7._
 
