@@ -23,7 +23,7 @@ def modernize(paragraph):
   return response.choices[0].text.strip()
 
 
-for line in open("original/chapter-29.txt"):
+for line in open("original/chapter-31.txt"):
   modernized = modernize(line)
-  open("book/chapter-29-and-not-in-self.md", "a").write(f"{modernized}\n\n")
+  open("book/chapter-31-the-glorified-one.md", "a").write(f"{modernized}\n\n")
 
